@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I’m excited to embark on a career in Cyber Security after a successful journey in Electrical Field, committed to continuous learning and start my contribution to a secure environments.. 🚀
 
 ## 🌟 About Me
-- 🎓 **Cybersecurity Enthusiast** pursuing a career as a SOC Analyst.
-- 💻 Learning tools like **Ansible**, **Wireshark**, and diving into **Web Programming with Python**.
-- 📜 Certifications Obtained: 
+- **Cybersecurity Enthusiast** pursuing a career as a SOC Analyst.
+- Learning tools like **Ansible**, **Wireshark**, and diving into **Web Programming with Python**.
+- Certifications Obtained: 
   - **Google Cybersecurity Professional Certificate**
   - **Security+ (SY0-701) work in in progress**
   - **ISC2-CC Certified Cybersecurity**
