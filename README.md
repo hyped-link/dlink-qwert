@@ -18,7 +18,7 @@ Here are some highlights of what I’ve worked on:
 - 🔐 
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sligon10101/) 
 - 🌍 [Personal Website](https://yourwebsite.com) (if applicable)  
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
